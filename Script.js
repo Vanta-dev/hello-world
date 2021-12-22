@@ -6,4 +6,4 @@ function nombreCompleto(a) {
   return (name + " " + lastName +a);
 };
 
-nombreCompleto(a);
+console.log(nombreCompleto(a));
