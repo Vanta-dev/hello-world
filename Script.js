@@ -2,8 +2,8 @@ let name="Marcelo";
 let lastName="Tate";
 var a=1;
 
-function nombreCompleto(a) {
-  return (name + " " + lastName +a);
+function nombreCompleto() {
+  return (name + " " + lastName);
 };
 
-console.log(nombreCompleto(a));
+console.log(nombreCompleto());
