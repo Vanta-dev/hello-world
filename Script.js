@@ -7,3 +7,4 @@ function nombreCompleto() {
 };
 
 console.log("Hello world from "+nombreCompleto()+"!");
+document.write(nombreCompleto());
