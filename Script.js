@@ -1,5 +1,5 @@
 let name="Marcelo"
-var lastName="Tate";
+let lastName="Tate";
 
 function nombreCompleto() {
   return (name + " " + lastName);
