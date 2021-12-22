@@ -1,5 +1,5 @@
- name="Marcelo";
-let lastName="Tate";
+var name="Marcelo";
+var lastName="Tate";
 var a=1;
 
 function nombreCompleto() {
@@ -7,3 +7,5 @@ function nombreCompleto() {
 };
 
 console.log("Hello world from "+nombreCompleto()+"!");
+
+getElementByIdId('caca');
