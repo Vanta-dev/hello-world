@@ -1,2 +1,3 @@
 var name="Marcelo"
-console.log(name);
+var lastName="Tate";
+
