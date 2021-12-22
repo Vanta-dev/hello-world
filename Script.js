@@ -1,6 +1,6 @@
 let name="Marcelo";
 let lastName="Tate";
-var a;
+var a=1;
 
 function nombreCompleto(a) {
   return (name + " " + lastName +a);
