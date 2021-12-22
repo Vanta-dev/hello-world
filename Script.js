@@ -6,6 +6,5 @@ function nombreCompleto() {
   return (name + " " + lastName);
 };
 
-console.log("Hello world from "+nombreCompleto()+"!");
+console.log("Hello world from "+nombreCompleto()+"!"+getElementByIdId('caca'));
 
-getElementByIdId('caca');
