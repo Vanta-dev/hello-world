@@ -1,1 +1,2 @@
-var  
+var name="Marcelo"
+console.log
